@@ -1,0 +1,182 @@
+[
+  {
+    "timestamp": "2026-04-14T12:20:02.008548",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 2.51,
+      "y": 32.72,
+      "z": 0.0
+    },
+    "velocity": 4.24,
+    "battery": 36,
+    "status": "Error"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008579",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 32.25,
+      "y": 71.88,
+      "z": 0.0
+    },
+    "velocity": 0.34,
+    "battery": 59,
+    "status": "Idle"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008593",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 67.85,
+      "y": 13.22,
+      "z": 0.0
+    },
+    "velocity": 0.4,
+    "battery": 23,
+    "status": "Moving"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008601",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 92.0,
+      "y": 52.18,
+      "z": 0.0
+    },
+    "velocity": 3.58,
+    "battery": 71,
+    "status": "Error"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008609",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 28.08,
+      "y": 51.74,
+      "z": 0.0
+    },
+    "velocity": 4.28,
+    "battery": 44,
+    "status": "Idle"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008616",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 65.67,
+      "y": 38.72,
+      "z": 0.0
+    },
+    "velocity": 0.92,
+    "battery": 31,
+    "status": "Charging"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008622",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 79.23,
+      "y": 84.03,
+      "z": 0.0
+    },
+    "velocity": 3.49,
+    "battery": 55,
+    "status": "Idle"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008629",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 63.09,
+      "y": 32.11,
+      "z": 0.0
+    },
+    "velocity": 4.75,
+    "battery": 76,
+    "status": "Idle"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008635",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 41.59,
+      "y": 23.3,
+      "z": 0.0
+    },
+    "velocity": 3.51,
+    "battery": 83,
+    "status": "Moving"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008641",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 30.11,
+      "y": 40.46,
+      "z": 0.0
+    },
+    "velocity": 1.71,
+    "battery": 39,
+    "status": "Idle"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008671",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 70.98,
+      "y": 54.04,
+      "z": 0.0
+    },
+    "velocity": 4.41,
+    "battery": 42,
+    "status": "Error"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008706",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 23.62,
+      "y": 20.71,
+      "z": 0.0
+    },
+    "velocity": 4.85,
+    "battery": 30,
+    "status": "Moving"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.008759",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 54.84,
+      "y": 40.54,
+      "z": 0.0
+    },
+    "velocity": 4.16,
+    "battery": 37,
+    "status": "Idle"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.009038",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 9.44,
+      "y": 44.38,
+      "z": 0.0
+    },
+    "velocity": 0.72,
+    "battery": 32,
+    "status": "Error"
+  },
+  {
+    "timestamp": "2026-04-14T12:20:02.009077",
+    "robot_id": "JASHBOT-001",
+    "position": {
+      "x": 43.7,
+      "y": 97.31,
+      "z": 0.0
+    },
+    "velocity": 1.43,
+    "battery": 64,
+    "status": "Idle"
+  }
+]
