@@ -1,0 +1,30 @@
+[
+  {
+    "task_id": 1,
+    "title": "Finish ROS2 installation",
+    "deadline": "2026-04-20",
+    "priority": "High",
+    "status": "Pending"
+  },
+  {
+    "task_id": 2,
+    "title": "Complete Fiverr gigs",
+    "deadline": "2026-04-17",
+    "priority": "High",
+    "status": "Pending"
+  },
+  {
+    "task_id": 3,
+    "title": "Study Navigation Stack",
+    "deadline": "2026-04-22",
+    "priority": "Medium",
+    "status": "Pending"
+  },
+  {
+    "task_id": 4,
+    "title": "Prepare LinkedIn profile",
+    "deadline": "2026-04-18",
+    "priority": "Medium",
+    "status": "Pending"
+  }
+]
