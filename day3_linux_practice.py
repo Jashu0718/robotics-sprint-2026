@@ -1,0 +1,5 @@
+print("🚀 Day 3 Complete!")
+print("Linux commands practiced successfully")
+print("Professional Gmail: jashwanthreddy.dev@gmail.com")
+print("Fiverr username: Jashwantheda")
+print("Ready for ROS2 journey!")
